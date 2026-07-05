@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Ashmit%20Gupta&fontSize=42&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=root@AshNova:~$%20echo%20'ECE%20@%20NSIT%20Delhi'&descAlignY=58&descColor=39FF14" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=200&section=header&text=Ashmit%20Gupta&fontSize=42&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=root@ashmitgupta637:~$%20echo%20'ECE%20@%20NSIT%20Delhi'&descAlignY=58&descColor=39FF14" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <h3 align="center">🐍 root access — contribution graph</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AshNova/AshNova/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/ashmitgupta637/ashmitgupta637/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -29,12 +29,12 @@
 <h3 align="center">📡 system stats</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AshNova&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshNova&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ashmitgupta637&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashmitgupta637&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshNova&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashmitgupta637&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" alt="streak stats" />
 </p>
 
 ---
@@ -42,19 +42,19 @@
 <h3 align="center">🧩 exploits.log — DSA / Competitive Coding</h3>
 
 <p align="center">
-  <a href="https://leetcode.com/u/AshNova/" target="_blank">
+  <a href="https://leetcode.com/u/ashmitgupta637/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" />
   </a>
-  <a href="https://www.geeksforgeeks.org/user/AshNova/" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/ashmitgupta637/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-000000?style=for-the-badge&logo=geeksforgeeks&logoColor=39FF14" />
   </a>
-  <a href="https://codeforces.com/profile/AshNova" target="_blank">
+  <a href="https://codeforces.com/profile/ashmitgupta637" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-000000?style=for-the-badge&logo=codeforces&logoColor=39FF14" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AshNova?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
+  <img src="https://leetcard.jacoblin.cool/ashmitgupta637?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" />
 </p>
 
 ---
@@ -72,7 +72,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshNova&style=for-the-badge&color=39FF14&labelColor=000000" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ashmitgupta637&style=for-the-badge&color=39FF14&labelColor=000000" alt="profile views" />
 </p>
 
 <p align="center">
